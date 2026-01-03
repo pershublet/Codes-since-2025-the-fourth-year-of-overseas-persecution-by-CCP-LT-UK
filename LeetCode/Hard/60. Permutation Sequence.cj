@@ -60,9 +60,12 @@ class Solution
         )
         {
             arrayList.add( s )
+
+
+            return
         }
 
-        
+
         for
         (
             d
